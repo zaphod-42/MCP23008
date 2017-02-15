@@ -1,5 +1,5 @@
 {
-    "name": "MCP23008_RELAY",
+    "name": "NCDMCP23008",
     "version": "0.0.8",
     "author": "Trey Felton <trey@tomadoh.com>",
     "license": "GNU",
