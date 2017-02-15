@@ -1,0 +1,7 @@
+{
+    "name": "MCP23008_RELAY",
+    "version": "0.0.8",
+    "author": "Trey Felton <trey@tomadoh.com>",
+    "license": "GNU",
+    "description": "Library intended for the operation of MCP23008 relay controlelrs"
+}
