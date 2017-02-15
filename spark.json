@@ -1,6 +1,6 @@
 {
     "name": "NCDMCP23008",
-    "version": "0.0.8",
+    "version": "0.0.1",
     "author": "Trey Felton <trey@tomadoh.com>",
     "license": "GNU",
     "description": "Library intended for the operation of MCP23008 relay controlelrs"
