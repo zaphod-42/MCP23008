@@ -1,4 +1,4 @@
-#include "MCP23008/MCP23008.h"
+#include "MCP23008.h"
 #include "spark_wiring_usbserial.h"
 
 //Comment line below out to turn off Serial logging
